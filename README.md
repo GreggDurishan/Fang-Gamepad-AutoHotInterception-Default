@@ -23,9 +23,9 @@ For step 2, choose the "AHK v2" folder as your working folder, and not "AHK v1" 
 When you get to part 4: "Right-click Unblocker.ps1 in the lib folder and select Run as Admin.", do the following instead:
 - Open a powershell window as admin
 - Navigate to the folder with Unblocker.ps1
-- Run the following command: Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+- Run the following command: ```Set-ExecutionPolicy -ExecutionPolicy Unrestricted```
 - Run Unblocker.ps1
-- Run the following command: Set-ExecutionPolicy -ExecutionPolicy Restricted
+- Run the following command: ```Set-ExecutionPolicy -ExecutionPolicy Restricted```
 - Close out
 (It's not usually smart to run strange scripts like this, you can read the contents of Unblocker.ps1 to see it's simple & not malicious itself. It imparts an elevated level of trust to the dlls in the folders below, so you're trusting those strange dlls too. I've had no issue.)
 
