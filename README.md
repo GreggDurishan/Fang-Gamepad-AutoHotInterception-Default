@@ -1,4 +1,4 @@
-# AutohotInterception script to restore default labled button behavior for Ideazon Fang gamepad in Win10/11
+# AutoHotInterception script to restore default labled button behavior for Ideazon Fang gamepad in Win10/11
 
 [![Video Guide](https://img.youtube.com/vi/ScVpzwB4eOw/0.jpg)](https://www.youtube.com/watch?v=ScVpzwB4eOw)  
 (Youtube guide to installation: https://www.youtube.com/watch?v=ScVpzwB4eOw)  
